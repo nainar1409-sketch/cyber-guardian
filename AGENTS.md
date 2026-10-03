@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Keep the password workbench in a self-contained static HTML document and display that same document at the app homepage; this keeps secrets inside an isolated, dependency-free browser experience.
