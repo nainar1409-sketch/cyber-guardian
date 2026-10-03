@@ -1,2 +1,2 @@
 - [x] Build a standalone private password analyzer and generator with themes and animation.
-- [ ] Expose the standalone experience at the app home page and verify its interactions.
+- [x] Expose the standalone experience at the app home page and verify its interactions.
